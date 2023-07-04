@@ -1,5 +1,3 @@
-
-
 <div style="width: 100%; max-width: 700px;">
 <div align="center">
 <h3>APN-Liferay-Tech-Writing-Exercise</h3>
@@ -49,7 +47,7 @@ Your DVR or, "Digital Video Recorder," is an electronic device that records your
 
 Below you will find your quick start instructions on using your new DVR: 
 
-<center><img style="background: white; width: 200px;" src="svgdigitalvideorecorder.png"><img style="background: white; width: 200px;" src="svgremotecontrol.png"></center>
+<div align="center"><img style="background: white; width: 200px;" src="svgdigitalvideorecorder.png"><img style="background: white; width: 200px;" src="svgremotecontrol.png"></div>
 
 ___
 
@@ -96,7 +94,7 @@ Again... life gets in the way and you just cannot afford to sit comfortably and 
 >___
 
 ___
-<div style="text-align: center;"><b><a style="font-size: 16px;" href="#table-of-contents">Back To Table Of Contents</a></b></div>
+<div align="center"><b><a style="font-size: 16px;" href="#table-of-contents">Back To Table Of Contents</a></b></div>
 
 ___
 
@@ -172,7 +170,7 @@ ___
 
 
 ___
-<div style="text-align: center;"><b><a style="font-size: 16px;" href="#table-of-contents">Back To Table Of Contents</a></b></div>
+<div align="center"><b><a style="font-size: 16px;" href="#table-of-contents">Back To Table Of Contents</a></b></div>
 
 ___
 
@@ -235,6 +233,6 @@ ___
 
 ___
 
-<div style="text-align: center;"><b><a style="font-size: 16px;" href="#table-of-contents">Back To Table Of Contents</a></b></div>
+<div align="center"><b><a style="font-size: 16px;" href="#table-of-contents">Back To Table Of Contents</a></b></div>
 
 </div>
