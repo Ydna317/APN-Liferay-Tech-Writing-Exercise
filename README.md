@@ -4,7 +4,7 @@
 <h1><b>Andy P. Nguyen</b><br />
 <a href="https://www.linkedin.com/in/andyphuocnguyen/">
 <img style="width: 100px;" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg">
-</a></h1>
+</a><a href="https://github.com/Ydna317/APN-Liferay-Tech-Writing-Exercise/blob/main/README.md#introduction"><br /><img style="width: 50px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"</a></h1>
 <img style="border-radius: 10px; background: white"; src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liferay-logo-full-color-2x.png?20180821104041">
 </h1>
 </div>
