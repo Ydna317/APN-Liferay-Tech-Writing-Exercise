@@ -3,7 +3,7 @@
 <div style="width: 100%; max-width: 700px;">
 
 <h1 style="text-align: center";>
-<b>Andy P. Nguyen</b>
+<b>Andy P. Nguyen</b></h1>
 <center>
 <a href="https://www.linkedin.com/in/andyphuocnguyen/">
 <img style="width: 100px;" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg">
