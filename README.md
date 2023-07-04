@@ -2,13 +2,12 @@
 <div align="center">
 <h3>APN-Liferay-Tech-Writing-Exercise</h3>
 <h1><b>Andy P. Nguyen</b><br />
-<a href="https://www.linkedin.com/in/andyphuocnguyen/">
-<img style="width: 25px;" src="linkedin.svg">
-</a> | <a href="https://github.com/Ydna317/APN-Liferay-Tech-Writing-Exercise/blob/main/README.md#introduction"><img style="width: 25px;" src="github.svg"</a></h1>
+<a href="https://github.com/Ydna317/APN-Liferay-Tech-Writing-Exercise/blob/main/README.md#introduction"><img style="width: 25px;" src="github.svg"></a> | <a href="https://www.linkedin.com/in/andyphuocnguyen/"><img style="width: 25px;" src="linkedin.svg"></a></h1>
 <img style="border-radius: 10px; background: white"; src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liferay-logo-full-color-2x.png?20180821104041">
-</h1>
 </div>
-          
+
+___
+
 # **Table of Contents**
 
 [Technical Writing Exercise 1:](#tech-writing-exercise-1)
