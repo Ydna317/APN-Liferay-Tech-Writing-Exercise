@@ -1,17 +1,16 @@
-# APN-Liferay-Tech-Writing-Exercise
+
 
 <div style="width: 100%; max-width: 700px;">
-
-<h1 style="text-align: center";>
-<b>Andy P. Nguyen</b></h1>
-<center>
+<div align="center">
+<h3>APN-Liferay-Tech-Writing-Exercise</h3>
+<h1><b>Andy P. Nguyen</b><br />
 <a href="https://www.linkedin.com/in/andyphuocnguyen/">
 <img style="width: 100px;" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg">
-</a>
+</a></h1>
 <img style="border-radius: 10px; background: white"; src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liferay-logo-full-color-2x.png?20180821104041">
-</center>
 </h1>
-
+</div>
+          
 # **Table of Contents**
 
 [Technical Writing Exercise 1:](#tech-writing-exercise-1)
