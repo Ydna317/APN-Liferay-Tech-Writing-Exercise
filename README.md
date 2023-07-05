@@ -219,7 +219,7 @@ ___
      * 
      * @param insert inserts String s or null value into the method
      * value of s = "happy day" / unknown or missing value = "null"
-     * @param offset replaces index 6 with value "birth"
+     * @param offset replaces index 6 with value " birth"
      * 1:h 2:a 3:p 4:p 5:y 6:_ 7:d 8:a 9:y
      * @return displays "Happy Birthday" if String s is inserted and "null" if value is missing or unknown
      *
